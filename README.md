@@ -27,7 +27,7 @@ A modern, responsive, and animated website for Audira premium headphones, featur
 - **Desktop Experience**: Full-featured desktop experience with advanced animations
 - **Adaptive Content**: Content adapts to screen size while maintaining visual hierarchy
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -47,7 +47,7 @@ A modern, responsive, and animated website for Audira premium headphones, featur
 - **Vector Graphics**: SVG icons for social media and UI elements
 
 ## Preview 
-- [Audira Headphone Brand]()
+- [Audira Headphone Brand](https://haseebjaved4212.github.io/Audira-Headphone-Brand-Website-/)
 
 ## 📂 Project Structure
 
@@ -71,7 +71,7 @@ Audira-Headphone-Brand/
     └── insta.png           # Instagram icon
 ```
 
-## 🎨 Sections Overview
+##  Sections Overview
 
 ### 1. **Hero Section**
 
@@ -115,7 +115,7 @@ Audira-Headphone-Brand/
 - Responsive layout with proper spacing
 - Professional contact information display
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
