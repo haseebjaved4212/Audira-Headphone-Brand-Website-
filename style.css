@@ -402,10 +402,18 @@ header .btn {
   filter: drop-shadow(6px 15px 5px #00000018);
 }
 
-/* Hide middle product image on desktop */
+/* Hide middle product image on desktop but ensure text visibility */
 @media (min-width: 991px) {
   #section5 .product:nth-child(2) img {
-    visibility: hidden;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  #section5 .product:nth-child(2) .name,
+  #section5 .product:nth-child(2) .price {
+    opacity: 1;
+    visibility: visible;
+    display: block;
   }
 }
 
